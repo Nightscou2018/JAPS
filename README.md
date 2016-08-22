@@ -1,5 +1,5 @@
 # HAPS
-Implementation of the OpenAPS project.
+Implementation of the OpenAPS system.
 
 HW: Minimed 722 2.4A + CareLink (soon CC1111USB) + Raspberry Pi2 (soon Pi0) 
 SW: OpenAPS + oref0 + GlucoseTools
