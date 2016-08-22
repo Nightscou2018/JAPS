@@ -1,0 +1,64 @@
+[
+  {
+    "_type": "TempBasalDuration", 
+    "_description": "TempBasalDuration 2016-08-17T00:40:09 head[2], body[0] op[0x16]", 
+    "timestamp": "2016-08-17T00:40:09+02:00", 
+    "_body": "", 
+    "_head": "1601", 
+    "duration (min)": 30, 
+    "_date": "8928005110"
+  }, 
+  {
+    "_type": "TempBasal", 
+    "temp": "absolute", 
+    "_description": "TempBasal 2016-08-17T00:40:09 head[2], body[1] op[0x33]", 
+    "timestamp": "2016-08-17T00:40:09+02:00", 
+    "_body": "00", 
+    "_head": "3350", 
+    "rate": 2.0, 
+    "_date": "8928005110"
+  }, 
+  {
+    "_type": "Battery", 
+    "_description": "Battery 2016-08-17T00:36:16 head[2], body[0] op[0x1a]", 
+    "timestamp": "2016-08-17T00:36:16+02:00", 
+    "_body": "", 
+    "_head": "1a01", 
+    "_date": "9024001110"
+  }, 
+  {
+    "_type": "Battery", 
+    "_description": "Battery 2016-08-17T00:35:50 head[2], body[0] op[0x1a]", 
+    "timestamp": "2016-08-17T00:35:50+02:00", 
+    "_body": "", 
+    "_head": "1a00", 
+    "_date": "b223001110"
+  }, 
+  {
+    "_type": "Model522ResultTotals", 
+    "_description": "Model522ResultTotals 2016-08-17T00:00:00 head[1], body[41] op[0x6d]", 
+    "timestamp": "2016-08-17T00:00:00+02:00", 
+    "_body": "05009785a902000005920592640000000000000000000000000000000000000000000000b185d45a02", 
+    "_head": "6d", 
+    "_date": "9010"
+  }, 
+  {
+    "_type": "ResultDailyTotal", 
+    "_description": "ResultDailyTotal 2016-08-17T00:00:00 head[5], body[0] op[0x07]", 
+    "timestamp": "2016-08-17T00:00:00+02:00", 
+    "_body": "", 
+    "_head": "0700000592", 
+    "valid_date": "2016-08-16", 
+    "_date": "9010"
+  }, 
+  {
+    "_type": "AlarmSensor", 
+    "_description": "AlarmSensor 2016-08-16T20:52:27 head[3], body[0] op[0x0b]", 
+    "alarm_type": 113, 
+    "alarm_description": "Lost Sensor", 
+    "_body": "", 
+    "_head": "0b7100", 
+    "timestamp": "2016-08-16T20:52:27+02:00", 
+    "_date": "9b3434b010"
+  }
+]
